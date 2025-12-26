@@ -4,3 +4,4 @@
 4. Rate limit
 5. Circuit breaker
 6. Testes concorrentes
+7. Bulkhead (isolamento por pool)
